@@ -9,3 +9,5 @@ He was happy at his job.
 # Chapter 4.5 - The Breaktime
 # Chapter 5 - The Bug
 Found a cockroach.
+# Chapter 6 - Battle for Survival
+Splatted the cockroach.

@@ -9,7 +9,7 @@ Steve got promoted.
 # Chapter 4 - The Team Lead
 # Chapter 4.5 - The Breaktime
 # Chapter 5 - The Bug
-Found a cockroach.
+Found a cockroach. Steve cowered in fear.
 # Chapter 6 - Battle for Survival
 Splatted the cockroach.
 # Chapter 7 - Bug Resolution

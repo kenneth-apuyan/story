@@ -14,4 +14,5 @@ Found a cockroach.
 Splatted the cockroach.
 # Chapter 7 - Bad Ending
 More cockroaches appeared and armaggedon commenced.
-# Chapter 8 - Go back in time?
+# Chapter 8 - Time Travel
+Go back in time where you found the first cockroach.

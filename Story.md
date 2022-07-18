@@ -16,3 +16,5 @@ Splatted the cockroach.
 More cockroaches appeared and armaggedon commenced.
 # Chapter 8 - Time Travel
 Go back in time where you found the first cockroach.
+# Ending - The True Ending
+Steve became a cockroach.

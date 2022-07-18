@@ -7,3 +7,5 @@ He was happy at his job.
 # Chapter 3 - The Promotion
 # Chapter 4 - The Team Lead
 # Chapter 4.5 - The Breaktime
+# Chapter 5 - The Bug
+Found a cockroach.

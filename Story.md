@@ -8,6 +8,7 @@ Steve evaded projects.
 # Chapter 3 - The Promotion
 Steve got promoted.
 # Chapter 4 - The Team Lead
+Steve became a team leader unwillingly.
 # Chapter 4.5 - The Breaktime
 Steve fell asleep for an hour.
 # Chapter 5 - The Bug

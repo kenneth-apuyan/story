@@ -14,3 +14,5 @@ Found a cockroach. Steve cowered in fear.
 Splatted the cockroach.
 # Chapter 7 - Bug Resolution
 Steve made a cockroach splatter to automate splatting of cockroaches.
+# Final Ending - The end of the beginning
+Steve became what he hated. He turned into a cockroach.

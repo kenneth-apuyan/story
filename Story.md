@@ -19,3 +19,5 @@ More cockroaches appeared and armaggedon commenced.
 Go back in time where you found the first cockroach.
 # Ending - The True Ending
 Steve became a cockroach. The End.
+# True Final Ending - Happily ever after
+Cockroach goddess descended from Cockroach land and married Steve.

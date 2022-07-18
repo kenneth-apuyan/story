@@ -11,3 +11,5 @@ He was happy at his job.
 Found a cockroach.
 # Chapter 6 - Battle for Survival
 Splatted the cockroach.
+# Chapter 7 - Bad Ending
+More cockroaches appeared and armaggedon commenced.

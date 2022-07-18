@@ -8,6 +8,7 @@ He was happy at his job.
 Steve got promoted.
 # Chapter 4 - The Team Lead
 # Chapter 4.5 - The Breaktime
+Steve fell asleep for an hour.
 # Chapter 5 - The Bug
 Found a cockroach.
 # Chapter 6 - Battle for Survival

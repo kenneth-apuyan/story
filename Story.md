@@ -12,5 +12,5 @@ Steve got promoted.
 Found a cockroach.
 # Chapter 6 - Battle for Survival
 Splatted the cockroach.
-# Chapter 7 - Bad Ending
-More cockroaches appeared and armaggedon commenced.
+# Chapter 7 - Bug Resolution
+Steve made a cockroach splatter to automate splatting of cockroaches.
